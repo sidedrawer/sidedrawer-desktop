@@ -1,2 +1,2 @@
 # sidedrawer-desktop
-v1.3.3
+v1.5.1
